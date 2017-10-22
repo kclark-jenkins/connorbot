@@ -1,0 +1,6 @@
+[submodule "connorbot-server"]
+	path = connorbot-server
+	url = https://github.com/kclark-jenkins/connorbot-server.git
+[submodule "connorbot-client"]
+	path = connorbot-client
+	url = https://github.com/kclark-jenkins/connorbot-client.git
